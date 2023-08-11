@@ -51,4 +51,4 @@ This repository contains only Terraform core, which includes the command line in
 
 ## License
 
-[Mozilla Public License v2.0](https://github.com/hashicorp/terraform/blob/main/LICENSE)
+[Mozilla Public License v2.0](https://github.com/diggerhq/open-terraform/blob/main/LICENSE)
