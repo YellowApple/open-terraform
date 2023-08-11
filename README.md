@@ -2,7 +2,10 @@
 
 An open-source (MPL) fork of Hashicorp's Terraform following their [change of license](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 
-- Created and maintained by [Digger.dev](github.com/diggerhq/digger), an open-source CI runner for infrastructure-as-code
+Created and maintained by [Digger.dev](github.com/diggerhq/digger), an open-source CI runner for infrastructure-as-code
+
+> The license change is not retroactive. This means all source code and releases prior to the change remain under the MPL 2.0 license. You may continue to use those versions indefinitely under the original license. (from [Hashicorp's blog](https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10)))
+
 - HashiCorp's Website: https://www.terraform.io
 - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core)
 - Documentation: [https://www.terraform.io/docs/](https://www.terraform.io/docs/)
